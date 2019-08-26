@@ -3,3 +3,7 @@ git commit -m "add file" #同意将文件从缓存区添加到当前分支
 git status # 查看当前工作区的状态
 git log  # 查看历史提交记录
 "git checkout -- <file>..." # to discard changes in working directory 放弃工作区的修改
+
+# 远程连接
+在github上创建版本，然后连接到本地的版本库，就可
+以后用git push 提交
