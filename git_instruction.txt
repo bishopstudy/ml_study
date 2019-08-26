@@ -1,0 +1,2 @@
+git add # 添加文件
+git commit -m "add file" #同意将文件从缓存区添加到工作区
